@@ -73,4 +73,4 @@ Work is done on feature branches and merged into `main` through pull requests
 
 ## Author
 
-[Your Name]
+[NathanielMoreno
