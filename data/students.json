@@ -1,0 +1,16 @@
+[
+  {
+    "student_id": "2400372",
+    "name": "nathnath",
+    "age": 20,
+    "email": "nath@gmail.com",
+    "course": "bsit3"
+  },
+  {
+    "student_id": "S001",
+    "name": "nath",
+    "age": 20,
+    "email": "nath@gmail.com",
+    "course": "bsit"
+  }
+]
