@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.pytest_cache/
+logs/*.log
+data/students_export.csv
+data/*.corrupt
+data/*.tmp
